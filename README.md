@@ -1,5 +1,10 @@
-# yo it's me pixity. 
-  discord: pixity 
-- learning skriptlang
-- making a survival minecraft server
-- staff @ fishonmc.net
+# Hey, I am Pixity, also known as:
+- pixityflixity
+- qixip (butterfly btw)
+
+## Socials
+- discord: pixity 
+
+## About
+- coding languages: SkriptLang & Java
+- Manager & Dev @ FishOnMC.next
