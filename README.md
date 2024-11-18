@@ -7,4 +7,4 @@
 
 ## About
 - coding languages: SkriptLang & Java
-- Manager & Dev @ FishOnMC.next
+- Manager & Dev @ FishOnMC.net
